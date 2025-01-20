@@ -20,7 +20,6 @@ public class Lanceur {
      * Point d'entrée principal du programme.
      * Cette méthode gère l'exécution initiale du jeu, notamment la vérification de mise à jour,
      * et l'affichage du menu principal du programme. Elle boucle jusqu'à ce que le joueur décide de quitter.
-     *
      * Étapes principales :
      * 1. Vérification de la connexion Internet.
      * 2. Vérification et gestion des mises à jour disponibles.
