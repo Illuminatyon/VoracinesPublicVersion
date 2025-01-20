@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/__MACOSX/lib/._junit-platform-engine-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/lib/._opentest4j-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/lib/._junit-jupiter-params-5.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/lib/._discord-game-sdk4j-0.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/lib/._json-20230227.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/lib/._junit-jupiter-api-5.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/lib/._junit-jupiter-engine-5.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/lib/._apiguardian-api-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/lib/._junit-platform-commons-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/lib/._junit-jupiter-5.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
