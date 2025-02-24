@@ -1,8 +1,9 @@
-Pour pouvoir jouer au jeu, vous devrez y jouer à partir d'un IDE, tel que IntelliJ ou bien Visual Studio Code. 
-( je vous recommande personnellement IntelliJ ).
+Comment jouer ?
+Pour lancer le jeu, vous devrez utiliser un IDE comme IntelliJ IDEA ou Visual Studio Code. Je vous recommande particulièrement IntelliJ IDEA pour une expérience optimale.
 
-Par la suite, vous devrez accéder aux fichiers :
-Voracines-main -> src -> Lanceur.
+Une fois l'IDE configuré, accédez aux fichiers suivants :
+📂 Voracines-main → 📂 src → 📂 Lanceur
 
+Il ne vous reste plus qu'à lancer le jeu et à profiter de l'aventure ! 🎮✨
 
-Amusez-vous bien !
+Amusez-vous bien ! 🚀
